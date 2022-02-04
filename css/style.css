@@ -310,6 +310,10 @@ p {
   color: black;
 }
 
+.tdd:hover h2 {
+  color: white;
+}
+
 .bottom:hover h2 {
   color: white;
 }
