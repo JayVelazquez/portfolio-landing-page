@@ -278,6 +278,10 @@ p {
   
 }
 
+.middle {
+  margin-top: 28px;
+}
+
 .bottom {
   margin-top: 28px;
 }
@@ -326,9 +330,36 @@ p {
   margin-top: 42px; 
 }
 
+#service .typescript img{
+  background-color: white;
+  text-align: center;
+  position: relative;
+  width: 81px;
+  height: auto;
+  margin-top: 42px; 
+}
+
+#service .responsive img{
+  background-color: white;
+  text-align: center;
+  position: relative;
+  width: 75px;
+  height: auto;
+  margin-top: 42px; 
+}
+
 .redux h4 {
  margin-top: 28px;
 }
+
+.typescript h4 {
+  margin-top: 18px;
+  
+ }
+
+ .responsive h4 {
+  margin-top: 20px;
+ }
 
 .bg-grey .fab {
   color: #ffffff;
