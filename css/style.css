@@ -343,15 +343,6 @@ p {
   margin-top: 42px; 
 }
 
-#service .responsive img{
-  background-color: white;
-  text-align: center;
-  position: relative;
-  width: 75px;
-  height: auto;
-  margin-top: 42px; 
-}
-
 .redux h4 {
  margin-top: 28px;
 }
@@ -361,8 +352,12 @@ p {
   
  }
 
- .responsive h4 {
-  margin-top: 20px;
+ .node h4 {
+  margin-top: 3px;
+ }
+
+ .node .fab {
+  margin-top: 50px;
  }
 
 .bg-grey .fab {
