@@ -274,15 +274,10 @@ p {
   position: relative;
   top: 0;
   -webkit-transition: all ease-in-out 0.4s;
-  transition: all ease-in-out 0.4s;
-  
+  transition: all ease-in-out 0.4s; 
 }
 
-.middle {
-  margin-top: 28px;
-}
-
-.bottom {
+.space {
   margin-top: 28px;
 }
 
@@ -294,6 +289,14 @@ p {
 .service-thumb:hover .fab,
 .service-thumb:hover h4 {
   color: #ffffff;
+}
+
+.service-thumb:hover .devIcon {
+  color: #ffffff;
+}
+
+.devIcon {
+  color: #000000;
 }
 
 .service-thumb h4 {
@@ -312,6 +315,10 @@ p {
 
 .tdd:hover h2 {
   color: white;
+}
+
+.tdd h2 {
+  color: #000000;
 }
 
 .bottom:hover h2 {
@@ -343,23 +350,6 @@ p {
   margin-top: 42px; 
 }
 
-.redux h4 {
- margin-top: 28px;
-}
-
-.typescript h4 {
-  margin-top: 18px;
-  
- }
-
- .node h4 {
-  margin-top: 3px;
- }
-
- .node .fab {
-  margin-top: 50px;
- }
-
 .bg-grey .fab {
   color: #ffffff;
 }
@@ -380,7 +370,7 @@ p {
 }
 
 .robot:hover{
-  top: -10px;
+  top: -25px;
 }
 
 .about-image-thumb .social-icon li a {
@@ -420,7 +410,7 @@ p {
   position: absolute;
   background: linear-gradient(to right bottom, rgba(19, 59, 216), rgba(42, 214, 80));
   border-radius: 5px;
-  cursor:default;
+  cursor: default;
   opacity: 0;
   width: 100%;
   height: 100%;
@@ -442,16 +432,27 @@ p {
 }
 
 .project-btn1 {
-  margin-top: 80px;
+  margin-top: 84px;
 }
 
 .project-btn2 {
   margin-top: 58px;
 }
  
-
 .project-btn3 {
   margin-top: 85px;
+}
+
+.project-btn4 {
+  margin-top: 61px;
+}
+
+.project-btn5 {
+  margin-top: 112px;
+}
+
+.project-btn6 {
+  margin-top: 9px;
 }
 
 .card-details li:not(:last-child) {
@@ -657,11 +658,19 @@ footer p {
   }
 
   .project-btn2 {
-    margin-top: 58px;
+    margin-top: 57px;
   }
 
   .project-btn3 {
-    margin-top: 73px;
+    margin-top: 80px;
+  }
+
+  .project-btn5 {
+    margin-top: 107px;
+  }
+
+  .project-btn6 {
+    margin-top: 8px;
   }
 }
 

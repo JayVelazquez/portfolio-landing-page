@@ -1,5 +1,5 @@
 # Portfolio Landing Page
-A clean portfolio landing page website with scroll animation capability. Website explains my skills, about, projects, and contact information.
+A clean portfolio landing page website with scroll animation capability. Website has sections that explain my skills, about, projects, and contact information.
 
 
 ## Table of Contents
@@ -12,9 +12,9 @@ A clean portfolio landing page website with scroll animation capability. Website
 
 
 ## Technologies Used
-- Bootstrap 4
-- HTML 5
-- CSS 3
+- Bootstrap
+- HTML
+- CSS
 - Animation
 - Wow.js
 
@@ -36,7 +36,7 @@ Clone this repo to your desktop to install
 
 ## Usage
 
-Once the dependencies are installed, you can right click on the HTML file to start. You will then be able to access it at localhost:3000.
+Once the dependencies are installed, you can right click on the HTML file and open with server live to start. You will then be able to access it at localhost:3000.
 
 
 ## Project Status
@@ -44,4 +44,4 @@ Project is: _Complete_
 
 
 ## Contact
-By Jairo(Jay) Velazquez - feel free to contact me!
+By Jairo(Jay) Velazquez
