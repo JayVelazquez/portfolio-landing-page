@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:300,400');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap');
 
 body {
     background: #ffffff;
@@ -247,7 +247,7 @@ p {
 /*--Home Section--*/
 
 #home {
-  background: linear-gradient(to right bottom, rgba(19, 59, 216, 0.75), rgba(42, 214, 80, 0.75)), url('https://media.giphy.com/media/dVcGWrQfYO3K6UYKF0/giphy.gif'),  50% 0 repeat fixed;
+  background: linear-gradient(to right bottom, rgba(19, 59, 216, 0.75), rgba(42, 214, 80, 0.75)), url('../images/3d-outrun.webp'),  50% 0 repeat fixed;
   background-size: cover;
   background-position: center center;
   display: -webkit-box;
@@ -634,7 +634,7 @@ footer p {
 @media (max-width: 580px) {
 
   h1 {
-    font-size: 29px;
+    font-size: 28px;
   }
 
   h2 {
@@ -674,7 +674,6 @@ footer p {
   }
 }
 
-
 @media (max-width: 320px) {
   #home {
     height: 125vh;
@@ -687,4 +686,7 @@ footer p {
   #home {
     height: 105vh;
   }
+
+
 }
+
