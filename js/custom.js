@@ -25,6 +25,6 @@
         });   
 
         // WOW Animation js
-        new WOW({ mobile: false }).init();
+  new WOW({ mobile: false }).init();
 
 })(jQuery);

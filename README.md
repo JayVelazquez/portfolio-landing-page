@@ -1,5 +1,5 @@
 # Portfolio Landing Page
-A clean portfolio landing page website with scroll animation capability. Website has sections that explain my skills, about, projects, and contact information.
+Crafted a sleek portfolio landing page featuring smooth scrolling and dynamic animations with a polished user experience. The website showcases my skills, includes an about me section, highlights projects, and provides contact information.
 
 
 ## Table of Contents
